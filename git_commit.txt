@@ -1,0 +1,12 @@
+1. Класічная мадэль арганізацыі кантроля версій
+http://nvie.com/posts/a-successful-git-branching-model/
+
+2. “Аднагалінкавы” падыход
+http://endoflineblog.com/gitflow-considered-harmful
+
+3. Прэзентацыя як арганізаваць аднагалінкавы падыход:
+https://speakerdeck.com/ewoodh2o/release-management-git-workflow
+
+4. Просты туторыял па адкатам (checkout --, revert, reset)
+https://www.youtube.com/watch?v=3dk3s4LK-Wg
+
