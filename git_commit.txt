@@ -10,3 +10,9 @@ https://speakerdeck.com/ewoodh2o/release-management-git-workflow
 4. Просты туторыял па адкатам (checkout --, revert, reset)
 https://www.youtube.com/watch?v=3dk3s4LK-Wg
 
+5. Розніца паміж пул і фэтч 
+https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch
+
+6. sdfasfdasdfas
+
+7. 
