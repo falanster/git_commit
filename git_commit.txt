@@ -15,4 +15,4 @@ https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pu
 
 6. sdfasfdasdfas
 
-7. 
+7. Як дадаць тэг ва ўдалены рэпазіторый https://stackoverflow.com/questions/18216991/create-a-tag-in-github-repository#18223354
