@@ -1,4 +1,6 @@
-1. Класічная мадэль арганізацыі кантроля версій
+Карысныя спасылкі:
+
+1. Класічная мадэль арганізацыі кантроля версій (2+ галінкі)
 http://nvie.com/posts/a-successful-git-branching-model/
 
 2. “Аднагалінкавы” падыход
@@ -10,9 +12,9 @@ https://speakerdeck.com/ewoodh2o/release-management-git-workflow
 4. Просты туторыял па адкатам (checkout --, revert, reset)
 https://www.youtube.com/watch?v=3dk3s4LK-Wg
 
-5. Розніца паміж пул і фэтч 
+5.  Як ствараць тэгі ва удаленых рэпазіторыях https://stackoverflow.com/questions/18216991/create-a-tag-in-github-repository#18223354
+
+6. Чым адрозніваецца fetch ад pull
 https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch
 
-6. Як дадаць тэг ва ўдалены рэпазіторый https://stackoverflow.com/questions/18216991/create-a-tag-in-github-repository#18223354
 
-7. adsdasdasa
